@@ -1,4 +1,4 @@
-# Orion Filaments 3D Map
+# Orion Filaments in 3D PPV cube
  
 The three-dimensional (position-position-velocity) interactive viewer \
 for presentation of velocity-coherent structures of Orion B molecular cloud including NGC 2068 and NGC 2071 regions.
@@ -11,4 +11,6 @@ See Yoo et al. (2022) for details on the identification and the physical propert
 
 [Go figure](./figure.html) 
 
-Thank you.
+Thank you. \
+(Credit: Hyunju Yoo \
+Email: hyunju527@gmail.com)
