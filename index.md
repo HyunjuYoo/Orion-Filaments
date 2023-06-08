@@ -5,11 +5,11 @@ for presentation of velocity-coherent structures of Orion B molecular cloud incl
 
 Click or double-click the filament's ID to visualize or hide the structures.
 
-See Yoo et al. (2023) for details on the identification and the physical properties of the filaments.\
+See Yoo et al. (2022) for details on the identification and the physical properties of the filaments.\
 (Note that the colors of filaments are not identical to those presented in the paper)
 
 
-[Go figure](/Users/hyunju/Library/CloudStorage/Dropbox/FUNS_OrionB/Orion-Filaments/figure.html)
+[Go figure](https://github.com/HyunjuYoo/Orion-Filaments/blob/master/3dfigure.html)
  
 
 Thank you. \
