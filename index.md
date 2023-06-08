@@ -9,7 +9,7 @@ See Yoo et al. (2023) for details on the identification and the physical propert
 (Note that the colors of filaments are not identical to those presented in the paper.)
 
 
-[Go figure](https://github.com/HyunjuYoo/Orion-Filaments/blob/ba570f48e8822a5f3d8b52e905c608c7fb745781/figure.html)
+[Go figure](https://github.com/HyunjuYoo/Orion-Filaments/figure.html)
  
 
 Thank you. \
